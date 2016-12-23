@@ -1,0 +1,1 @@
+javascript:(function()%7Bvar title %3D document.getElementsByTagName("title")%5B0%5D.innerHTML%3Bvar url %3D "https%3A%2F%2Fdel.icio.us%2Fsave%2Fget_iframe_savelink%3Furl%3D"%2Bdocument.location%2B"%3Btitle%3D"%2Btitle%3Bvar win %3D window.open(url%2C '_blank')%3Bwin.focus()%7D)()
